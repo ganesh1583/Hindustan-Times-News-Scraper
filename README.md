@@ -25,7 +25,7 @@ python3 news.py
 A new text file will be created with today’s date containing the latest headlines.
 
 Example output:
-2025-10-27
+2025-10-27.txt
 
 News number : 1
 India vs England World Cup final today at Ahmedabad
